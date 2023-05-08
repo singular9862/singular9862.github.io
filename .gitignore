@@ -1,0 +1,10 @@
+#dist/
+node_modules/
+
+.cache/
+.temp/
+
+.idea
+
+script/comsol/words.json
+script/comsol/words.md
