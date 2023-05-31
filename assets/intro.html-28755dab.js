@@ -1,0 +1,1 @@
+import{_ as t,X as o,Y as a,Z as e,$ as n}from"./framework-1e27cadd.js";const r={},s=e("h1",{id:"关于我",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于我","aria-hidden":"true"},"#"),n(" 关于我")],-1),c=e("p",null,"平平无奇，我对自己也不是很好奇。",-1),_=[s,c];function d(i,l){return o(),a("div",null,_)}const f=t(r,[["render",d],["__file","intro.html.vue"]]);export{f as default};
